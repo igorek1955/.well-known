@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.jarlingvar.wanderjunk",
     "sha256_cert_fingerprints":
-    ["27:EC:D7:75:51:49:C6:34:AD:26:07:82:B8:28:CF:74:B5:11:C0:1C:7E:84:76:66:9C:57:21:C8:EB:F7:B7:85"]
+    ["27:EC:D7:75:51:49:C6:34:AD:26:07:82:B8:28:CF:74:B5:11:C0:1C:7E:84:76:66:9C:57:21:C8:EB:F7:B7:85",
+      "3A:6C:81:AA:E7:F1:1E:28:C4:A6:F9:30:25:85:A1:B6:EE:A0:78:FF:6E:DB:69:FC:B1:3A:CD:C3:B2:78:A6:A0"]
   }
 }]
